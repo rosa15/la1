@@ -1,4 +1,4 @@
 <?php 
-    echo "aldaketa lokala";
+    echo "aldaketa lokala  b2";
     phpinfo(); 
 ?>
